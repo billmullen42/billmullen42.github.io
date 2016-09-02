@@ -22,7 +22,7 @@ To give one example, I was recently trying to recall the syntax to concatenate s
 
 ## On data and simplicity
 
-But, stiving to be something, and being that thing, are not one and the same. One of several distinctions between Java and C is how the languages store data. C allows storage on the stack or on the heap, and it allows objects and variables to be in either place. In Java, objects go on the heap, simple variable types belong on the stack. That way it's simpler - after all, the programmer doesn't really need to know what's going on behind the scenes, right?
+But, striving to be something, and being that thing, are not one and the same. One of several distinctions between Java and C is how the languages store data. C allows storage on the stack or on the heap, and it allows objects and variables to be in either place. In Java, objects go on the heap, simple variable types belong on the stack. That way it's simpler - after all, the programmer doesn't really need to know what's going on behind the scenes, right?
 
 Until it actually makes a difference, which it is bound to do. And then you have a wrapper class, an inelegant workaround. Even worse for the new programmer who learns about classes and objects, variables and wrapper classes, all without really addressing the underlying workings that bring about such distinctions. I for one - and I suspect I'm not alone - had to learn C before I really knew what I was doing in Java.
 
