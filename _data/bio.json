@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/in/william-mullen-3464161a"
       },
       {
         "network": "instagram",
@@ -57,20 +57,18 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
