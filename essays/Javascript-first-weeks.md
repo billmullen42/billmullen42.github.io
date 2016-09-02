@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny right spaced image" src="../images/ essay1.png ">
+<img class="ui tiny right spaced image" src="../images/ essay1.png">
 
 In the first weeks of my course on Software Engineering, I've also been exposed to Javascript for the first time. Using the athletic software engineering model (http://courses.ics.hawaii.edu/ReviewICS314/morea/introduction/reading-athletic-software-engineering.html), we have started on a fast, but above-all consistent, pace. Learning in this way has, so far, kept me focused on the next step - there are observations about the language that I've picked up along the way, but I haven't had a chance before now to dive in, and speculate as to what they might mean.
 
