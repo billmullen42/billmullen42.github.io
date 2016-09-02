@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Reflections on Javascript
+title: The first weeks of Javascript
 date: 2016-09-01
 labels:
   - Software Engineering
   - Learning
 ---
 
-
+In the first weeks of my course on Software Engineering, I've also been exposed to Javascript for the first time. Using the athletic software engineering model (http://courses.ics.hawaii.edu/ReviewICS314/morea/introduction/reading-athletic-software-engineering.html), we have started on a fast, but above-all consistent pace. Learning in this way has, so far, kept me focused on the next step - there are observations about the language that I've picked up along the way, but I haven't had a chance before now to dive in, and speculate as to what they might mean.
 
 ## On language and appearances
 
@@ -27,6 +27,8 @@ But, stiving to be something, and being that thing, are not one and the same. On
 Until it actually makes a difference, which it is bound to do. And then you have a wrapper class, an inelegant workaround. Even worse for the new programmer who learns about classes and objects, variables and wrapper classes, all without really addressing the underlying workings that bring about such distinctions. I for one - and I suspect I'm not alone - had to learn C before I really knew what I was doing in Java.
 
 But to return to Javascript, I was saying the very first micro-lesson introduced var, and it all seemed so simple. Enter "const," enter "let." The reason to use "const" seems clear and practical. But for "let," so far, all I know is that "var" doesn't work quite the way it's supposed to, for reasons I hope to learn.
+
+I remain hopeful Javascript will prove to be as flexible, and as simple and straightforward as it first seems. And I have reason to be optimistic, in that experiencing other languages might provide the insight that I need to avoid false assumptions that lead to problems you don't know how to approach. That I have enough context to make good use of what flexibility and simplicity is there, even when simplicity and flexibility seem so often to be at odds with one another. But I am wary as to what might lie behind the curtain.
 
 
 
