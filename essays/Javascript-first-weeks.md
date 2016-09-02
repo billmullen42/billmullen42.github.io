@@ -18,7 +18,7 @@ The very first thing I noticed was the lack of variable types, at least of the s
 
 If this says anything about the design philosophy of the language, I would hazard that Javascript strives to be flexible. Indeed, in just about every micro-lesson, I've learned that an element of Javascript syntax is about the same as Java or C, or that it strives to be simpler: straightforward, and as flexible as possible. 
 
-To give one example, I was recently trying to recall the synax to concatenate strings. Is it ".concat"? All spelled out, ".concatenate"? I was about to turn to Google when I asked myself, "what is the simplest way I could express that idea?" And of course, my answer produced working code: "+=".
+To give one example, I was recently trying to recall the syntax to concatenate strings. Is it ".concat"? All spelled out, ".concatenate"? I was about to turn to Google when I asked myself, "what is the simplest way I could express that idea?" And of course, my answer produced working code: "+=".
 
 ## On data and simplicity
 
