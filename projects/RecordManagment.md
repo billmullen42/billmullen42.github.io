@@ -4,7 +4,7 @@ type: project
 image: /images/essay1.png
 title: Record Managment
 permalink: projects/SystemAdmin
-date: 2014
+date: 2016-08-05
 labels:
   - C++
   - Record Management Program
