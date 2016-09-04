@@ -29,10 +29,23 @@
   },
   "interests": [
     {
-      "name": "Data Management",
+      "name": "data management",
+    },
+    {
+      "name": "wed development",
+    },
+    {
+      "name": "data analysis",
+    },
+    {
+      "name": "content management systems",
+    },
+    {
+      "name": "game design",
       "keywords": [
-        "",
-        ""
+        "indie video games",
+        "VR",
+        "board game design"
       ]
     },
   ],
