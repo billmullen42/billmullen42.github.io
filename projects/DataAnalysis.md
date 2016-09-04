@@ -14,3 +14,5 @@ summary: I developed a tool for Wiley to better update and coallate usage data f
 ---
 
 <img class="ui medium right floated rounded image" src="/images/">
+
+text
