@@ -3,7 +3,7 @@ layout: project
 type: project
 image: billmullen42.github.io/images/Crecords.png
 title: Record Managment
-permalink: projects/SystemAdmin
+permalink: projects/RecordManagement
 date: 2016-08-05
 labels:
   - C
