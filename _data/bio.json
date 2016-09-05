@@ -71,7 +71,8 @@
         "Windows",
         "MacOS",
         "Git/GitHub",
-        "phpMyAdmin"
+        "phpMyAdmin",
+        "CPanel"
       ]
     }
   ],
@@ -97,12 +98,32 @@
       "company": "Wiley",
       "position": "Assistant Editor",
       "website": "",
-      "startDate": "2010-08-27",
-      "endDate": "2015-10-03",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "",
       "highlights": [
-        "",
-        ""
+      ]
+    },
+        {
+      "company": "Wiley",
+      "position": "Editorial Program Coordinator",
+      "website": "",
+      "startDate": "2011",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Wiley",
+      "position": "Editorial Program Assistant",
+      "website": "",
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary": "summary",
+      "highlights": [
+        "Bullet A",
+        "Bullet B"
       ]
     }
   ],
