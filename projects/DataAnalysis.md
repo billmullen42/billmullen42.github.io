@@ -4,7 +4,7 @@ type: project
 image: /images/essay1.png
 title: Usage_Data_Analysis
 permalink: projects/SystemAdmin
-date: 2014
+date: 2014-06-01
 labels:
   - STMS
   - Usage_Data
