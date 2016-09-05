@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 permalink: projects/DataAnalysis
-image: /images/essay1.png
+image: billmullen42.github.io/images/essay1.png
 title: Usage Data Analysis
 date: 2014-06-01
 labels:
