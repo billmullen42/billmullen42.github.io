@@ -11,7 +11,7 @@ labels:
   - Usage Data
   - Data Analysis
   - Excel
-summary: I developed a tool for Wiley to better update and coallate usage data from multiple sources.
+summary: I developed a tool for Wiley to better update and collate usage data from multiple sources.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/LSDash2.png">
