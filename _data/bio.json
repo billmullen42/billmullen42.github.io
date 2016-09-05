@@ -97,11 +97,15 @@
     {
       "company": "Wiley",
       "position": "Assistant Editor",
-      "website": "",
+      "website": "www.wiley.com",
       "startDate": "2013",
       "endDate": "2014",
       "summary": "Summary",
       "highlights": [
+        "Developed custom Excel template to streamline manuscript workflow.",
+        "Monitored usage metrics, and presented findings to team members at monthly meetings.",
+        "Organized and led international meetings for multiple Editorial Boards.",
+        "Balanced multiple tasks for individual projects and support of larger team."
       ]
     },
         {
@@ -110,7 +114,7 @@
       "website": "",
       "startDate": "2011",
       "endDate": "2013",
-      "summary": "Summary",
+      "summary": "",
       "highlights": [
       ]
     },
@@ -120,10 +124,8 @@
       "website": "",
       "startDate": "2010",
       "endDate": "2011",
-      "summary": "summary",
+      "summary": "",
       "highlights": [
-        "Bullet A",
-        "Bullet B"
       ]
     }
   ],
