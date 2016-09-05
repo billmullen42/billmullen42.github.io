@@ -5,7 +5,6 @@ published: true
 permalink: projects/DataAnalysis
 image: /images/essay1.png
 title: Usage Data Analysis
-permalink: projects/SystemAdmin
 date: 2014-06-01
 labels:
   - STMS
