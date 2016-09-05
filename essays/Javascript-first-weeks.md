@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: ../images/essay1.png
 title: The first weeks of Javascript
 date: 2016-09-01
 labels:
