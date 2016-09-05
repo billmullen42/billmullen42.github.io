@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "data management",
+      "name": "Data management",
     },
     {
       "name": "wed development",
@@ -39,6 +39,9 @@
     },
     {
       "name": "content management systems",
+    },
+    {
+      "name": "scientific publications",
     },
     {
       "name": "game design",
