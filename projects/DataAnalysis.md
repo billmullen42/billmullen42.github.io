@@ -2,6 +2,7 @@
 layout: project
 type: project
 published: true
+permalink: projects/DataAnalysis
 image: /images/essay1.png
 title: Usage Data Analysis
 permalink: projects/SystemAdmin
