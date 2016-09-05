@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: /images/essay1.png
 title: Usage_Data_Analysis
 permalink: projects/SystemAdmin
