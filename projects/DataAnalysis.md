@@ -5,7 +5,7 @@ published: true
 permalink: projects/DataAnalysis
 image: billmullen42.github.io/images/LSDash.png
 title: Usage Data Dashboard
-date: 2014-06-01
+date: 2014
 labels:
   - STMS
   - Usage Data
