@@ -19,7 +19,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/GitHub-Mark-120px-plus.png">
 
-
+## Which came first, the chicken or chickenHub?
 
 The first time I ran into the issue of configuration management, or at least version control, was not in a software context. At the time, about a decade ago, I was getting my first bachelor's degree and working at the copy desk of the student newspaper. We used a fairly simple program to check documents in and out from the server, to pass an article through the various stages on the way to publication. At the time, I was impressed.
 
