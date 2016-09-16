@@ -9,15 +9,15 @@ date: 2016-09-12
 
 labels:
 
-  - Software Engineering
+  - Configuration Management
 
-  - Learning
+  - Version Control
 
 ---
 
 
 
-<img class="ui medium left floated image" src="../images/essay1.png">
+<img class="ui medium left floated image" src="../images/GitHub-Mark-120px-plus.png">
 
 
 
@@ -30,6 +30,8 @@ But the process of reverting to an earlier version was flimsy at best, and night
 Not to mention the performance. I'm not certain if all of our problems were due to the software or poor server hardware, but problems would abound. Checking documents in or out involved significant delay, and often threw errors that were difficult to troubleshoot. Server crashes were all too common, and would involve time-consuming re-synching of local version after reboot. And, best of all, even taking all precautions during a server crash, there was a chance that work on the latest version of a document would simply be destroyed!
 
 As one of the last two people to leave before the issue went to print, the performance issues were a special favorite of mine.
+
+<img class="ui medium left floated image" src="../images/chicken.png">
 
 ## Git vs GitHub
 
