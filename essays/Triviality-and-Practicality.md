@@ -17,7 +17,7 @@ labels:
 
 ---
 
-<blockquote cite="http://xkcd.com/1695/"><img class="ui medium left floated image" src="../images/xkcd1695.png"></blockquote><footer>Excerpt from <source src="http://xkcd.com/1695/">xkcd #1695</source> by Randall Munroe.</footer>
+<img class="ui medium left floated image" src="../images/xkcd1695.png"><blockquote cite="http://xkcd.com/1695/">Excerpt from <a href="http://xkcd.com/1695/">xkcd #1695</a> by Randall Munroe.</blockquote>
 
 As a former copyeditor, I'm prone to attention to detail, but I try to avoid being punctilious. Most supposed grammar “rules” in English – at least those that people frequently get “wrong” – are actually stylistic choices, and often questionable choices at that. So while it was, I’ll admit, particularly frustrating to enforce Associate Press style when it went against my own years-entrenched writing habits, I appreciated that the rules of AP style were particularly suited to their own medium.
 So too I try to find ways to appreciate the reasoning behind coding styles that I’m not used to. Even when they ask me to use two- or four-spaced indents, instead of three.
