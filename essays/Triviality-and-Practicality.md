@@ -5,7 +5,7 @@ layout: essay
 type: essay
 
 title: Triviality and Practicality
-date: 2016-09-12
+date: 2016-09-22
 
 labels:
 
