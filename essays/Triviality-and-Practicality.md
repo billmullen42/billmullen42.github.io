@@ -17,7 +17,7 @@ labels:
 
 ---
 
-<blockquote><img class="ui medium left floated image" src="../images/xkcd1695.png"></blockquote><footer>Excerpt from <a href="http://xkcd.com/1695/">xkcd #1695</a> by Randall Munroe.</footer>
+<blockquote><img class="ui medium left floated image" src="../images/xkcd1695.png">Excerpt from <a href="http://xkcd.com/1695/">xkcd #1695</a> by Randall Munroe.</blockquote>
 
 As a former copyeditor, I'm prone to attention to detail, but I try to avoid being punctilious. Most supposed grammar “rules” in English – at least those that people frequently get “wrong” – are actually stylistic choices, and often questionable choices at that. 
 
