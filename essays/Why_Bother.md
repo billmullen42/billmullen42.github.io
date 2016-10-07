@@ -16,10 +16,9 @@ labels:
 
 ---
 
-Why bother learning Semantic UI, or any UI framework for that matter? 
-For starters, it takes time and effort to learn a new framework, and you're not doing anything that can't be done in HTML or CSS.
-When you know the long and hard way to get from point A to point B, it's probably faster to take the long and hard route a second time. Why bother finding shortcuts?
-After all, the internet doesn't really look any better than it did in 1997. What's the point?
+Why bother learning Semantic UI, or any UI framework for that matter?
+
+For starters, it takes time and effort to learn a new framework, and you're not doing anything that can't be done in HTML or CSS.When you know the long and hard way to get from point A to point B, it's probably faster to take the long and hard route a second time. Why bother finding shortcuts? After all, the internet doesn't really look any better than it did in 1997. What's the point?
 
 For the record, this is a straw man:
 
@@ -27,12 +26,14 @@ For the record, this is a straw man:
 
 And that was a straw man argument.
 
+## Just that easy
+
 As I learn more and more tools for software engineering, I like to make a case for the value of what I've learned, weighed against the drawbacks of that framework or language or approach. 
 To make my point clear, I can start by playing my former, more naive self. If I can convince him, hopefully I can convince any skeptic as well.
 
-But as my tools get better, it's getting harder to see the other side.
+But as my tools get better, it's getting harder to give skepticism a fair shake. For Semantic UI I have a particularly hard time not just because it's useful, but because it's so easy.
 
-For Semantic UI I have a particularly hard time imagining what a critic would say not just because it's useful, but because it's so easy.
+## But how?
 
 I think this framwork is quick to pick up by its design, and by its modular nature. 
 
