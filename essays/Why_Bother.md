@@ -23,6 +23,8 @@ After all, the internet doesn't really look any better than it did in 1997. What
 
 For the record, this is a straw man:
 
+<img class="ui image" src="../images/scarecrow.png">
+
 And that was a straw man argument.
 
 As I learn more and more tools for software engineering, I like to make a case for the value of what I've learned, weighed against the drawbacks of that framework or language or approach. 
