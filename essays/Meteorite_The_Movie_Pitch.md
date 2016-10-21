@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Meteorite: The Movie Pitch
-date: 2016-10-20
+title: Meteorite, the Movie Pitch
+date: 2016-20-10
 labels:
   - Meteor
   - Troubleshooting
-  - IntelliJ IDEA
   - VirtualBox
   - Linux
 ---
