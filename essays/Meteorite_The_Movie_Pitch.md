@@ -10,7 +10,7 @@ labels:
   - Linux
 ---
 
-Screenwriter: Thank you for this opportuninty, I'll get right into it. What we have here is a spin on the classic coming of age tale. Our screenplay begins with a chance encounter between our hero and destiny, when he meets a powerful being that fell from the sky, an exile from the Land of Stable Builds. Once one of many meteors, this particular one is destined - some say cursed - to be the fabled Meteorite.
+Screenwriter: Thank you for this opportunity, I'll get right into it. What we have here is a spin on the classic coming of age tale. Our screenplay begins with a chance encounter between our hero and destiny, when he meets a powerful being that fell from the sky, an exile from the Land of Stable Builds. Once one of many meteors, this particular one is destined - some say cursed - to be the fabled Meteorite.
 
 Panelist 1: I'm sorry, meteor, Meteorite?
 
@@ -32,7 +32,7 @@ S: So the pair set out, and find a new weapon at their local running shop, and t
 
 P1: From anywhere?
 
-S: Mostly it would draw power from Metoerite's magical armor or the shell of command. But unable to power the new weapon, the pair venture into the dark and wooded forums seeking answers. The woodland creatures are tricksters, though, and give their secrets only in riddles. But the hero is able to repair the cracks in the weapon's magical scabard, made from a mongo shell, and the weapons begins to glow with an admittedly faint light.
+S: Mostly it would draw power from Meteorite's magical armor or the shell of command. But unable to power the new weapon, the pair venture into the dark and wooded forums seeking answers. The woodland creatures are tricksters, though, and give their secrets only in riddles. But the hero is able to repair the cracks in the weapon's magical scabbard, made from a mongo shell, and the weapons begins to glow with an admittedly faint light.
 
 P1: That's fairly convoluted, I'm not sure audiences will go for it.
 
