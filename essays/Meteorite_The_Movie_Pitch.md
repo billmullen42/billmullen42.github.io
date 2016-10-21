@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Meteorite, the Movie Pitch
-date: 2016-20-10
+date: 2016-10-20
 labels:
   - Meteor
   - Troubleshooting
