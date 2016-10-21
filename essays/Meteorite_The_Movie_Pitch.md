@@ -1,4 +1,26 @@
-Meteorite: A Coming of Age Story
+---
+
+layout: essay
+
+type: essay
+
+title: Meteorite: The Movie Pitch
+
+date: 2016-10-20
+
+labels:
+
+  - Meteor
+
+  - Troubleshooting
+  
+  - IntelliJ IDEA
+  
+  - VirtualBox
+  
+  - Linux
+
+---
 
 ## The movie pitch
 
@@ -8,7 +30,7 @@ S: Right, the Meteorite is a meteor that has crashed to Earth.
 Panelist 2: In the books, doesn't the Meteorite crash several times? It seemed to be happening almost constantly?
 S: Glad to have a fan of the source material! And that's the case here too, but the screenplay glosses over that part a bit.
 
-## Our journey begins
+## Our Journey Begins
 
 S: You see, our villain is the evil wizard that lives in the Tower of Seven Windows. Our hero, together with Meteorite, believes that somewhere in that wizard's tower lies the key to restoring Meteorite to its rightful place in the sky. But the wizard has stolen the Meteorite's magic weapon, a sword named Mongo.
 P2: Can you explain the bit about the magic words?
@@ -23,9 +45,15 @@ P2: There are a lot of small obstacles that just lead from one to another, maybe
 
 S: And so, the pair, weaker Mongo in hand, storm the Tower of Seven Windows, only to find, it is a trap. Perhaps it was the weaker weapon that left them vulnerable, perhaps the trap was unavoidable. But no sooner do they step inside than they are caged within an eof! 
 P2: Now, Meteorite and the hero are supposed to be clever, wouldn't they see the trap coming?
-S: It was an unexpected eof
+S: It was an unexpected eof.
 P2: Ah.
 
-## The dungeons
+## The Dungeons
 
-S: So, imprisoned beneath the tower
+S: So, imprisoned beneath the tower, our hero plans his escape. He doesn't know where Meteorite is being imprisoned, but he uses his VirtualBox to jimmy the lock, and secret his way from the dungeons into the Caves of Linux. But the caves, too, are full of dangers.
+S: He encounters his old friends Java and IntelliJ, that he knew from his childhood in the shadow of the tower. But here in the caves, they have been turned to stone, and won't wake up.
+S: Soon, the cave creatures take pity.
+
+## Cliffhanger
+
+P1: So, here's my problem. We're in the caves, and the screenplay just, ends?
