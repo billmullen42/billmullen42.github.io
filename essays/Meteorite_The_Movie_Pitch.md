@@ -19,7 +19,6 @@ labels:
   - VirtualBox
   
   - Linux
-
 ---
 
 ## The movie pitch
