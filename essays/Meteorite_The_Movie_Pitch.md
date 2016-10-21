@@ -44,7 +44,7 @@ S: And so, the pair, weaker Mongo in hand, storm the Tower of Seven Windows, onl
 
 P2: Now, Meteorite and the hero are supposed to be clever, wouldn't they see the trap coming?
 
-S: It was an unexpected eof
+S: It was an unexpected eof.
 
 P2: Ah.
 
@@ -54,8 +54,18 @@ S: So, imprisoned beneath the tower, our hero plans his escape. He doesn't know 
 
 S: He encounters his old friends Java and IntelliJ, that he knew from his childhood in the shadow of the tower. But here in the caves, they have been turned to stone, and won't wake up. 
 
-S: Soon, the cave creatures take pity.
+S: Soon, the cave creatures take pity. Creatures called system variables tell the hero of separate paths in the caves that will lead to a cure, but each PATH is a dead end.
+
+S: Their king, the command line, tries to free them from their frozen state by bringing in more copies of the statues from afar, and unpackaging these statues himself. But each new statue is as lifeless as the next. Finally, a wise sudo named Apt-Get shows the hero how to unlock a door in the back of the cave, which was disguised as another eof trap. There, they find the gorgon that froze the hero's friends, and negotiate their release.
 
 ## Cliffhanger
 
-P1: So, here's my problem. We're in the caves, and the screenplay just, ends?
+P1: So, here's my problem. We're in the caves, and the screenplay just, ends? There are a whole lot of obstacles but no finale. Shouldn't there be a big finale confrontation with the wizard?
+
+S: We're focusing less on that, and more on the coming-of-age aspects of the hero's journey. You know, learning to deal with challenges, and all the friends you make along the way...
+
+P2: Plus, in the extended lore the masters of the Towers of Many Windows are said to be immortal...
+
+P1: Alright, alright! Forget I asked. But I thought this was a movie about restoring the Meteorite? We haven't even seen that character since Act 2. Isn't that a little unsatisfying?
+
+S: Oh, we're hoping for a sequel.
