@@ -10,13 +10,23 @@ labels:
   - Linux
 ---
 
+## Foreword
+
+Once upon a time, in late 2016, a student developer was working on what seemed like a straightforward assignment in JavaScript, using the Meteor framework. He had been using a hand-me-down laptop, passed on from relatives, and while it was developer quality, the important thing was that he hadn't been around for the setup of the machine, nor the first year of its operating use. So when things went wrong - and this was the time that they did - the possible causes were myriad and mysterious. As he investigated the problems, each answer only raised more questions as still new problems emerged, and ultimately those questioned challenged the validity of whatever answer he had found. He was vexed.
+
+It would eventually be discovered that the Windows Update tool had not been functioning for some time. While the absence of numerous important patches went a long way to explaining why several different things were each behaving improperly, this is not the story of that particular discovery. Rather, it is the story of several weeks before, when the student developer was entirely mystified. It is the week he felt like he was banging his head against a wall, and that that wall was part of an M.C. Escher diorama, containing a multitude of other walls in physically-impossible arrangement for his head to also bang against. It is a week in which he tried to lift his spirits, by imagining that his frustration (like any struggle?) could be recontextualized as a heartwarming coming-of-age tale. It was a time when he had begun to imagine pitching this tale as a screenplay to a pair of hollywood producers. All-in-all, he had gone slightly batty.
+
+It is commonly believed that the producers in question were two of his cats.
+
+## The Meeting
+
 Screenwriter: Thank you for this opportunity, I'll get right into it. What we have here is a spin on the classic coming of age tale. Our screenplay begins with a chance encounter between our hero and destiny, when he meets a powerful being that fell from the sky, an exile from the Land of Stable Builds. Once one of many meteors, this particular one is destined - some say cursed - to be the fabled Meteorite.
 
-Panelist 1: I'm sorry, meteor, Meteorite?
+Producer 1: I'm sorry, meteor, Meteorite?
 
 S: Right, the Meteorite is a meteor that has crashed to Earth.
 
-Panelist 2: In the books, doesn't the Meteorite crash several times? It seemed to be happening almost constantly?
+Producer 2: In the books, doesn't the Meteorite crash several times? It seemed to be happening almost constantly?
 
 S: Glad to have a fan of the source material! And that's the case here too, but the screenplay glosses over that part a bit.
 
