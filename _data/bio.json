@@ -57,10 +57,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "JavaScript",
+        "Java",
         "C",
         "C++",
-        "Java",
-        "Javascript",
+        "C#",
+        "HTML",
+        "Handlebars",
+        "CSS",
         "SQL"
       ]
     },
@@ -70,6 +74,7 @@
       "keywords": [
         "Windows",
         "MacOS",
+        "Linux (Xubuntu)",
         "Git/GitHub",
         "phpMyAdmin",
         "CPanel"
