@@ -14,7 +14,7 @@ labels:
 summary: My team created a web application to help UH Manoa students document and care for the plants in their area.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/Species Database.png">
+<img class="ui large centered rounded image" src="/images/Species Database.png">
 
 [LetUmGrow Landing Page](https://letumgrow.github.io/).
 
@@ -27,4 +27,5 @@ For this project, our team met regularly in person, and communicated nightly via
 As part of the assigment requirements, our app requires login via the UH servers, so a UH login is required to view the deployed version.
 
 [LetUmGrow Landing Page](https://letumgrow.github.io/).
+
 [LetUmGrow Source Files](https://github.com/LetUmGrow/LetUmGrow).
