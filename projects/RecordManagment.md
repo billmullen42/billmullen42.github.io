@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: billmullen42.github.io/images/Crecords.png
-title: Record Managment
+title: Record Managment C++
 permalink: projects/RecordManagement
 date: 2016-08-05
 labels:
