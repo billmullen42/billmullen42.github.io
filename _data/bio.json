@@ -29,10 +29,13 @@
   },
   "interests": [
     {
-      "name": "Data management",
+      "name": "Web development",
     },
     {
-      "name": "web development",
+      "name": "Human-centered design",
+    }
+    {
+      "name": "data management",
     },
     {
       "name": "data analysis",
@@ -62,10 +65,16 @@
         "C",
         "C++",
         "C#",
+        "Assembly (NASM x86)",
+        "SQL",
         "HTML",
-        "Handlebars",
         "CSS",
-        "SQL"
+        "Handlebars",
+        "JSON",
+        "AJAX",
+        "ASP.NET",
+        "LISP",
+        "Prolog"
       ]
     },
     {
@@ -73,8 +82,8 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Linux (Ubuntu)",
         "MacOS",
-        "Linux (Xubuntu)",
         "Git/GitHub",
         "phpMyAdmin",
         "CPanel"
@@ -88,13 +97,15 @@
       "studyType": "B.A.",
       "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "4.00",
+      "gpa": "3.26",
       "courses": [
-        "Software Engineering 1",
-        "Data Storage and Retrieval",
+        "Software Engineering II",
+        "Human Computer Interaction I",
+        "Programming Language Theory",
         "Algorithms",
-        "Introduction to Programming for the Web",
-        "Program Structure"
+        "Data Storage and Retrieval",
+        "Machine-Level & Systems Programming",
+        "Operating Systems",
       ]
     },
     {
@@ -143,8 +154,7 @@
       "highlights": [
       ]
     }
-  ],
-"references": [
+  ],"references": [
     {
       "name": "Available upon request",
       "reference": ""
