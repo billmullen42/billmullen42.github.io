@@ -1,0 +1,34 @@
+---
+
+layout: essay
+
+type: essay
+
+title: UX Assessment for a Student Portal
+date: 2017-05-19
+
+labels:
+
+  - User Experience
+
+  - Design Planning
+
+---
+
+This summer, I and 6 other students will be building a desktop application in Electron to allow users to easily create and maintain TechFolios profiles. Our first task is to identify pain points in the existing TechFolios  experience, using Github.
+
+As a walkthrough I created a new project entry and uploaded a new essay. I am also drawing on my previous experience with TechFolios, including a résumé update about 3 weeks ago.
+
+Preliminary app requirements can be viewed here [link], but I have tried to keep my suggestions broad to remain relevant with any requirements changes during development. Below I used the term "editor" to refer to a context in the new app where the user is editing information - this may end up being multiple contexts such as project-editor context and profile-editor context, but will be distinct from viewing the live profile and distinct from the potential "preview" context.
+
+Visibility of system status.
+It should be clear from the editor which items in the bio file will be displayed in the resume file, and elsewhere. Currently, some fields appear in multiple areas of the profile, and some are not displayed in the live profile at all.
+The editor should detect and highlight invalid syntax at all times. Currently, users are notified after the fact via email if syntax errors in the last commit prevent an update to the live profile, and users must locate these errors manually.
+
+[essays - deleted, drafts, etc]
+
+
+Match between system and the real world
+Overall, TechFolios does well in this area - the terms "projects," "bio," "essays," etc. are typically clear.
+
+[difference of terminology: Lang, framework]
