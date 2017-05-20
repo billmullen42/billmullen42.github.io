@@ -1,18 +1,11 @@
 ---
-
 layout: essay
-
 type: essay
-
 title: UX Design for a Desktop App
 date: 2017-05-19
-
 labels:
-
   - User Experience
-
   - Design Planning
-
 ---
 
 This summer, I and 6 other students will be building a desktop application in Electron to allow users to easily create and maintain TechFolios profiles. Our first task is to identify pain points in the existing TechFolios  experience, using Github.
@@ -34,3 +27,4 @@ As a related issue, during my walkthrough I noticed that when I click on my newe
 Overall, TechFolios does well in its use of terminology. For some areas of the bio/resume, the suggested use of some fields could be clearer. For example, the default bio includes a languages/frameworks section, which also allows for sub-items that will appear in parentheses in the resume. The app should make the interface more similar to the final appearance, so that the functionality is clear. Additionally, example resumes that make use of the parentheses and resume tips would help users understand what sort of information should go where.
 
 TechFolios has many options for image size and placement. Our editor should allow users familiar with html tags to use them, but we should provide a few good default options with the underlying html hidden from the user.
+
