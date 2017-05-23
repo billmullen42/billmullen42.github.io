@@ -32,9 +32,6 @@
       "name": "Web development",
     },
     {
-      "name": "human-centered design",
-    },
-    {
       "name": "data management",
     },
     {
@@ -44,15 +41,13 @@
       "name": "content management systems",
     },
     {
+      "name": "game design",
+    },
+    {
       "name": "scientific publications",
     },
     {
-      "name": "game design",
-      "keywords": [
-        "indie video games",
-        "VR",
-        "board game design"
-      ]
+      "name": "human-centered design",
     }
   ],
   "skills": [
