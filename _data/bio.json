@@ -94,14 +94,9 @@
       "gpa": "3.55",
       "courses": [
         "Software Engineering II",
-        "Human Computer Interaction I",
         "Algorithms",
-        "Programming Language Theory",
-        "Program Structure",
         "Intro to Programming for the Web",
-        "Data Storage and Retrieval",
-        "Machine-Level & Systems Programming",
-        "Operating Systems",
+        "Human Computer Interaction I"
       ]
     },
     {
