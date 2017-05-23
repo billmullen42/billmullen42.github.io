@@ -29,3 +29,5 @@ Overall, TechFolios does well in its use of terminology. For some areas of the b
 TechFolios has many options for image size and placement. Our editor should allow users familiar with html tags to use them, but we should provide a few good default options with the underlying html hidden from the user.
 
 In a few cases, when TechFolio's didn't do what I wanted it to to, it revealed something that TechFolio's could do if desired. Some of these might be customizable options, which advanced users could make use of. But this desktop app is geared specifically at simplicity and streamlining, and should accomodate new and inexperienced users over advanced users. And given short development time, we should err on the side of simplicity over customizability.
+
+Should be able to export resume file to other file formats (e.g. Word) easily, to facilitate job applications and consistency.
