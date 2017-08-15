@@ -6,7 +6,7 @@
     "email": "wlmullen@hawaii.edu",
     "phone": "",
     "website": "https://billmullen42.github.io",
-    "summary": "I am a Second Bachelor's student, studying Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Summer, 2017.",
+    "summary": "I am a Second Bachelor's student, studying Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in August, 2017.",
     "location": {
       "address": "",
       "postalCode": "96815",
@@ -104,8 +104,7 @@
       "startDate": "2004",
       "endDate": "2008",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -123,15 +122,14 @@
         "Balanced multiple tasks for individual projects and support of larger team."
       ]
     },
-        {
+    {
       "company": "Wiley",
       "position": "Editorial Program Coordinator",
       "website": "",
       "startDate": "2011",
       "endDate": "2013",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Wiley",
@@ -140,10 +138,10 @@
       "startDate": "2010",
       "endDate": "2011",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     }
-  ],"references": [
+  ],
+  "references": [
     {
       "name": "Available upon request",
       "reference": ""
